@@ -27,6 +27,13 @@ Installation
 2. After data capturing is completed, the FinalModel.py file is required to be run.
 3. To test the model, run the ‘Test in Real Time’ block. It will turn the camera on and will capture the person in front of the camera and give prediction. 
 
+### MPHolistic LandMarks
+
+## Hand Landmarks
+![handlandmarks](https://user-images.githubusercontent.com/68776176/188785562-f1926381-f219-426e-a7ca-13177953902f.png)
+
+## Pose Landmarks
+![poselandmark-300x170](https://user-images.githubusercontent.com/68776176/188785597-162980aa-cdd9-484a-aad6-fbcef91bbbf6.png)
 
 ### Working AVI
 
